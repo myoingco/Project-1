@@ -96,17 +96,17 @@ Prior to execution, you must have Python as well as VSCode installed. You must a
 <img width="651" alt="Screenshot 2024-04-17 at 7 29 00 PM" src="https://github.com/myoingco/Project-1/assets/160566342/84312a6c-99f2-4402-8ef0-eb46429e2349">
 
 - We then created a linear regression for the 'Loan Status' and 'Credit Score'.
-    - We came to the conclusion that given the equation y = 0.0031x - 1.47, the correlation coefficient is close to 0.0031; this indicates a very weak positive correlation between x and y.
+    - We came to the conclusion that given the equation y = 0.0031x - 1.47, and the r-value is 0.19427770335190858; this indicates a very weak positive correlation between x and y.
 
 ![image](https://github.com/myoingco/Project-1/assets/160566342/5109820f-7e01-476c-87d2-4c3fa308a22c)
 
 - We then created a linear regression for the 'Loan Status' and 'Annual Income'.
-    - We came to the conclusion that given the equation y = -0.0000000727x + 0.65, the correlation coefficient is close to zero -0.0000000727; this indicates a very weak negative correlation between x and y. 
+    - We came to the conclusion that given the equation y = -0.0000000727x + 0.65, and the r-value is 0.08979218286914188; this indicates a very weak positive correlation between x and y. 
 
 ![image](https://github.com/myoingco/Project-1/assets/160566342/565c9e43-02e1-41a6-a4f1-18634f638776)
 
 - We then created a linear regression for the 'Loan Status' and 'Debt-to-Income Ratio'.
-    - We came to the conclusion that given the equation y = -0.65x + 0.85, the correlation coefficient is -0.65; this indicates a moderately strong negative correlation between x and y.
+    - We came to the conclusion that given the equation y = -0.65x + 0.85, the r-value is -0.11740260879478066; this indicates a very weak negative correlation between x and y.
 
 ![image](https://github.com/myoingco/Project-1/assets/160566342/93beb036-7bef-4f26-a64d-6306051ecfb7)
 
